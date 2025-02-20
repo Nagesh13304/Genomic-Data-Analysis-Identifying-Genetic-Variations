@@ -1,1 +1,0 @@
-# Genomic-Data-Analysis-Identifying-Genetic-Variations
